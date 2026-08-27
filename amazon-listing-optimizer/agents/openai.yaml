@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Listing Optimizer"
+  short_description: "Create and audit compliant, conversion-focused Amazon listings"
+  default_prompt: "Use $amazon-listing-optimizer to audit and improve this Amazon product listing."
